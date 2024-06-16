@@ -28,17 +28,17 @@ GuessMyNumber is a simple C++ game where the user tries to guess a randomly gene
 
 2. Navigate to the project directory:
     ```sh
-    cd GuessMyNumber
+    cd SecretNumber
     ```
 
 3. Compile the program:
     ```sh
-    g++ -o GuessMyNumber main.cpp
+    g++ -o SecretNumber main.cpp
     ```
 
 4. Run the program:
     ```sh
-    ./GuessMyNumber
+    ./SecretNumber
     ```
 
 ## Usage
@@ -47,7 +47,7 @@ GuessMyNumber is a simple C++ game where the user tries to guess a randomly gene
 2. Enter your guess and press Enter.
 3. The program will tell you if your guess is too high, too low, or correct.
 4. Continue guessing until you find the correct number.
-5. After guessing correctly, you will be asked if you want to play again (enter 's' or 'S' to play again, any other key to exit).
+5. After guessing correctly, you will be asked if you want to play again (enter 'y' or 'Y' to play again, any other key to exit).
 
 ## Example
 
