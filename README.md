@@ -23,7 +23,7 @@ GuessMyNumber is a simple C++ game where the user tries to guess a randomly gene
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/GuessMyNumber.git
+    git clone https://github.com/Angcroft/SecretNumber.git
     ```
 
 2. Navigate to the project directory:
